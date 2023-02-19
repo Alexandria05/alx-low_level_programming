@@ -2,13 +2,7 @@
 /**
  * main - entry point
  *
- * Return 0 always (SUCCESS)
- *
- *
- *
- *
- *
- *
+ * Return: Always 0 (Success)
  *
  */
 
