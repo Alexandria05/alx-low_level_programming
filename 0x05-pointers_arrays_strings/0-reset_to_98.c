@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- * rest_to_98 - a function that takes a pointer to an int a s parameter
+ * rest_to_98 - a function that takes a pointer to an int a parameter
  * @n: input
  * Return: n
- */void reset_to 98_(int *n)
+ *
+ */void reset_to_98(int *n)
 {
 	*n = 98;
 }
