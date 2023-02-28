@@ -5,4 +5,5 @@
  * Return: n
  */void reset_to 98_(int *n)
 {
-	*n = 98;}
+	*n = 98;
+}
