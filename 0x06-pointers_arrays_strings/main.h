@@ -1,6 +1,11 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+<<<<<<< HEAD
+=======
+/*bwave*/
+
+>>>>>>> a55c8d5816e8e2855550dcee781ebf7d3b36c847
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
