@@ -24,3 +24,7 @@ char *_strcat(char *dest, char *src)
 	*dest = '\0';
 	return (s);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8fd5b5a99572b22a28d652b797946d5517e5c563

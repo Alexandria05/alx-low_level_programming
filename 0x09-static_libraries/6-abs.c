@@ -13,4 +13,7 @@ int _abs(int n)
 	else
 		return (-n);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8fd5b5a99572b22a28d652b797946d5517e5c563

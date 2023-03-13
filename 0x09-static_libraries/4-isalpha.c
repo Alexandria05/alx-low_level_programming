@@ -14,3 +14,7 @@ int _isalpha(int c)
 	else
 		return (0);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8fd5b5a99572b22a28d652b797946d5517e5c563
