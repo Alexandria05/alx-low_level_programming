@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * This simple programm prints its name 
- * follow by a new line.
- * Return : 0
+ * main - entry point
+ * @argc: size of argv
+ * @argv: array
+ * Return: 0
  */
 int main(int argc, char *argv[])
 {
