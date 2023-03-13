@@ -7,7 +7,7 @@
  *
  */
 
-int main(int argc, *argv[])
+int main(int argc, char *argv[])
 {
 	(void)argv;
 
