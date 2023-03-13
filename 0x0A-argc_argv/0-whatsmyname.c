@@ -1,12 +1,9 @@
 #include <stdio.h>
 
 /**
- *
  * This simple programm prints its name 
  * follow by a new line.
- *
  * Return : 0
- *
  */
 int main(int argc, char *argv[])
 {
@@ -14,5 +11,4 @@ int main(int argc, char *argv[])
 
 	printf("%s\n", argv[0]);
 	return (0);
-
 }
